@@ -1,2 +1,3 @@
 hello world
-i'm Ha
+toi la Nguyen Thanh Ha
+chao moi nguoi
